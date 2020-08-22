@@ -15,6 +15,8 @@ Damit ein Mitschüler auch aus seinem eigenen Verhalten bessere Schlüsse ziehen
 ### Skizzen
 Folgend sind meine finalen Bleistifitskizzen abgebildet. Das Navigationskonzept wird zusätzlich durch die Blauen Pfeile beschrieben.
 
+[Test](./Skizzen/SkizzenJPG.jpg)
+
 ### Wireframes
 Ausgehend von den Skizzen habe ich Wireframes von den einzelnen Screens erstellt.
 
