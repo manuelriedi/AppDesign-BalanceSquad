@@ -1,4 +1,4 @@
-# App-Design BalanceSquad
+# Ein App-Design zur Sensibilisierung der Klimaproblematik
 
 ### Anmerkung
 Die ausführlichere Dokumentation über meine Arbeit kann in meiner Case-Study erahren werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 Folgenden werden nur die wichtisten Elemente aus der Case Study zusammengefasst. 
