@@ -1,6 +1,6 @@
 # Ein App-Design zur Sensibilisierung der Klimaproblematik
 
-### Anmerkung
+## Anmerkung
 Die ausführlichere Dokumentation über meine Arbeit kann in meiner Case-Study eingesehen werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 </br>
 Folgend wird nur das wichtiste aus der Case Study zusammengefasst. 
 
@@ -19,18 +19,18 @@ Folgend sind meine finalen Bleistifitskizzen abgebildet. Das Navigationskonzept 
 ![Test](./Skizzen/SkizzenJPG.jpg)
 
 
-## Interaktiver Prototyp
+### Interaktiver Prototyp
 https://www.figma.com/proto/AOEWFRMQZTQ5MoaJzmP0UR/My-adxd?node-id=261%3A236&viewport=1657%2C670%2C0.6228898763656616&scaling=min-zoom
 
 ### Screens Hi-Fi Prototyp
 Bemerkung: Weiter unten befindet sich auch ein Link zum interkativen Protoitypen. 
 
-<img src="./SingleScreens/Start-Screen.png" alt="alt text" width="25%" height="25%">
-<img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="25%" height="25%">
-<img src="./SingleScreens/Warte-Screen.png" alt="alt text" width="25%" height="25%">
-<img src="./SingleScreens/Portrait-Screen.png" alt="alt text" width="25%" height="25%">
-<img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="50%" height="50%">
-<img src="./SingleScreens/Detail-Screen.png" alt="alt text" width="25%" height="25%">
-<img src="./SingleScreens/Beamer.png" alt="alt text" width="70%" height="70%">
+<img src="./SingleScreens/Start-Screen.png" alt="alt text" width="30%" height="30%">
+<img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="30%" height="30%">
+<img src="./SingleScreens/Warte-Screen.png" alt="alt text" width="30%" height="30%">
+<img src="./SingleScreens/Portrait-Screen.png" alt="alt text" width="30%" height="30%">
+<img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="60%" height="60%">
+<img src="./SingleScreens/Detail-Screen.png" alt="alt text" width="30%" height="30%">
+<img src="./SingleScreens/Beamer.png" alt="alt text" width="80%" height="80%">
 
 
