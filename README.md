@@ -23,8 +23,6 @@ Folgend sind meine finalen Bleistifitskizzen abgebildet. Das Navigationskonzept 
 https://www.figma.com/proto/AOEWFRMQZTQ5MoaJzmP0UR/My-adxd?node-id=261%3A236&viewport=1657%2C670%2C0.6228898763656616&scaling=min-zoom
 
 ### Screens Hi-Fi Prototyp
-Bemerkung: Weiter unten befindet sich auch ein Link zum interkativen Protoitypen. 
-
 <img src="./SingleScreens/Start-Screen.png" alt="alt text" width="30%" height="30%">
 <img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="30%" height="30%">
 <img src="./SingleScreens/Warte-Screen.png" alt="alt text" width="30%" height="30%">
