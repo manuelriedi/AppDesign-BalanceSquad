@@ -24,7 +24,9 @@ https://www.figma.com/proto/AOEWFRMQZTQ5MoaJzmP0UR/My-adxd?node-id=261%3A236&vie
 
 ### Screens Hi-Fi Prototyp
 <img src="./SingleScreens/Start-Screen.png" alt="alt text" width="30%" height="30%">
+<p align="center">
 <img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="30%" height="30%">
+</p>
 <img src="./SingleScreens/Warte-Screen.png" alt="alt text" width="30%" height="30%">
 <img src="./SingleScreens/Portrait-Screen.png" alt="alt text" width="30%" height="30%">
 <img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="60%" height="60%">
