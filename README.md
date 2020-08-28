@@ -1,4 +1,4 @@
-# Ein App-Design zur Sensibilisierung der Klimaproblematik
+# Ein App Visual Design zur Sensibilisierung der Klimaproblematik
 
 ## Anmerkung
 Die ausführlichere Dokumentation über meine Arbeit kann in meiner Case-Study eingesehen werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 </br>
