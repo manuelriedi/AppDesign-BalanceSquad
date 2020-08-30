@@ -14,7 +14,7 @@ Damit ein Mitschüler auch aus seinem eigenen Verhalten bessere Schlüsse ziehen
 
 ## Skizzen, Screens und Hi-Fi Prototyp
 ### Skizzen
-Folgend sind meine finalen Bleistifitskizzen abgebildet. Das Navigationskonzept wird zusätzlich durch die blauen Pfeile beschrieben.
+Folgend sind meine Skizzierungen abgebildet. Das Navigationskonzept wird zusätzlich durch die blauen Pfeile beschrieben.
 
 ![Test](./Skizzen/SkizzenJPG.jpg)
 
