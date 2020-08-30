@@ -1,12 +1,12 @@
 # Ein App Visual Design zur Sensibilisierung der Klimaproblematik
 
-## Anmerkung
+#### Anmerkung
 Die ausführlichere Dokumentation über meine Arbeit kann in meiner Case-Study eingesehen werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 </br>
-Folgend wird nur ein Teil der Case Study zusammengefasst. 
+Folgend wird der Inhalt der Case Study verkürzt präsentiert.
+Das Projekt wurde zudem im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt. Der Inhalt der Arbeit soll lediglich zu Lernzwecken dienen.
 
-## Kurz 
+## Inhalt und Ziel
 Mit diesem Projekt habe ich eine Begleiter-App für den Schulunterricht entworfen, welche zum Ziel hat, junge Leute auf die Problematik der Globalen Erwärmung aufmerksam zu machen. Gemeinsam sollen sie ihr Verhalten auf die Umwelt reproduzieren und durch visuelle, informative und spielerische Art ihren biologischen Fussabdruck erfahren können.
-Anmerkung: Das Projekt wurde im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt. Der Inhalt dieser Arbeit soll lediglich zu Lernzwecken dienen.
 
 ## Mein Entwurf
 Schüler einer Klasse sollen mit dem App-Konzept (Konzeptname “Balance Squad”) ihr persönlicher biologischer Fussabdruck abbilden. Die daraus entstehenden Daten aller beteiligten Schüler, werden während diesem Prozess zu einem Klassenprofil verschmolzen und auf dem Beamer im Schulzimmer als visuelles Naturbild wiedergegeben. Steht die Klasse mit ihrem Verhalten dabei schlecht zur Natur, wird die Landschaft auf dynamische Weise, entsprechend in die Richtung eines apokalyptisch-ähnlichen Szenerios übergehen. Anderenfalls wird das Bild zu einer harmonische Idylle wechseln. Die Schüler müssen somit gemeinsam eine gesunde Balance für das Klima finden, indem sie mit ihrer App gegenseitig Kompromisse mittels klimaschädlichen Verhaltensparametern regeln können. Neben der Durchführung dieses Spiels sollen daraus (ausserhalb der App) entsprechend hitzige Diskussionen zwischen den Schülern selbst und der Lehrperson entstehen.
