@@ -29,5 +29,3 @@ https://www.figma.com/proto/AOEWFRMQZTQ5MoaJzmP0UR/My-adxd?node-id=261%3A236&vie
 <img src="./SingleScreens/Warte-Screen.png" alt="alt text" align="top" width="40%" height="40%">
 <img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="60%" height="60%"> 
 <img src="./SingleScreens/Beamer.png" alt="alt text" width="80%" height="80%">
-
-
