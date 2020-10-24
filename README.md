@@ -1,20 +1,19 @@
 # Ein App Visual Design zur Sensibilisierung der Klimaproblematik
 
 #### Anmerkung
-Die ausführlichere Dokumentation über meine Arbeit kann in meiner Case-Study eingesehen werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 </br>
-Folgend wird der Inhalt der Case Study verkürzt präsentiert.
-Das Projekt wurde zudem im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt. Der Inhalt der Arbeit soll lediglich zu Lernzwecken dienen.
+Die ausführlichere Dokumentation über diese Arbeit kann aus meiner Case-Study entnommen werden: https://medium.com/@manuelriedi/ein-app-design-zur-sensibilisierung-der-klimaproblematik-532f47d5246 </br>
+Das Projekt wurde im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt. Der Inhalt der Arbeit soll lediglich zu Lernzwecken dienen.
 
 ## Inhalt und Ziel
-Mit diesem Projekt habe ich eine Begleiter-App für den Schulunterricht entworfen, welche zum Ziel hat, junge Leute auf die Problematik der Globalen Erwärmung aufmerksam zu machen. Gemeinsam sollen sie ihr Verhalten auf die Umwelt reproduzieren und durch visuelle, informative und spielerische Art ihren biologischen Fussabdruck erfahren können.
+Mit diesem Projekt soll eine Begleiter-App für den Schulunterricht entworfen werden, welche zum Ziel hat junge Menschen auf die Problematik der Globalen Erwärmung aufmerksam zu machen. Gemeinsam sollen sie ihr Verhalten auf die Umwelt reproduzieren und durch visuelle, informative und spielerische Art ihren biologischen Fussabdruck erfahren können.
 
-## Mein Entwurf
-Schüler einer Klasse sollen mit dem App-Konzept (Konzeptname “Balance Squad”) ihr persönlicher biologischer Fussabdruck abbilden. Die daraus entstehenden Daten aller beteiligten Schüler, werden während diesem Prozess zu einem Klassenprofil verschmolzen und auf dem Beamer im Schulzimmer als visuelles Naturbild wiedergegeben. Steht die Klasse mit ihrem Verhalten dabei schlecht zur Natur, wird die Landschaft auf dynamische Weise, entsprechend in die Richtung eines apokalyptisch-ähnlichen Szenerios übergehen. Anderenfalls wird das Bild zu einer harmonische Idylle wechseln. Die Schüler müssen somit gemeinsam eine gesunde Balance für das Klima finden, indem sie mit ihrer App gegenseitig Kompromisse mittels klimaschädlichen Verhaltensparametern regeln können. Neben der Durchführung dieses Spiels sollen daraus (ausserhalb der App) entsprechend hitzige Diskussionen zwischen den Schülern selbst und der Lehrperson entstehen.
-Damit ein Mitschüler auch aus seinem eigenen Verhalten bessere Schlüsse ziehen kann, soll er zudem mit nützlichen Informationen und Tipps zu seinem persönlichen biologischen Fussabdruck geschult werden.
+## Idee
+Schüler einer Klasse sollen mit dem App-Konzept “Balance Squad” (Konzeptname) ihr persönlicher biologischer Fussabdruck abbilden können. Die daraus entstehenden Daten der beteiligten Schüler werden dabei zu einem Klassenprofil verschmolzen und beispielsweise auf dem Beamer im Schulzimmer als visuelles Naturbild wiedergegeben. Steht die Klasse mit ihrem Verhalten dabei schlecht zur Natur, wird die Landschaft auf dynamische Weise entsprechend in Richtung eines apokalyptisch-ähnlichen Szenerios übergehen. Anderenfalls wird das Bild zu einer harmonische Idylle übergehen. Die Schüler müssen somit gemeinsam eine gesunde Balance für das Klima finden, indem sie gegenseitig Kompromisse eingehen, welche sie durch das Regelen klimaschädlicher Verhaltensparametern erreichen können. Neben der Durchführung dieses Spiels sollen daraus (ausserhalb der App) entsprechend Diskussionen zwischen Schülern und Lehrperson entstehen.
+Damit ein Mitschüler als Individum auch aus dem eigenen Verhalten bessere Schlüsse ziehen kann, soll er zusätzlich mit nützlichen Tipps zu seinem persönlichen biologischen Fussabdruck geschult werden.
 
 ## Skizzen, Screens und Hi-Fi Prototyp
 ### Skizzen
-Folgend sind meine Skizzierungen abgebildet. Das Navigationskonzept wird zusätzlich durch die blauen Pfeile beschrieben.
+Folgend sind Skizzierungen (Lo-Fi Prototyp) abgebildet. Das Navigationskonzept wird zusätzlich durch die blauen Pfeile beschrieben.
 
 ![Test](./Skizzen/SkizzenJPG.jpg)
 
