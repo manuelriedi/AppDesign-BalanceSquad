@@ -22,10 +22,10 @@ Folgend sind Skizzierungen (Lo-Fi Prototyp) abgebildet. Das Navigationskonzept w
 https://www.figma.com/proto/AOEWFRMQZTQ5MoaJzmP0UR/My-adxd?node-id=261%3A236&viewport=1657%2C670%2C0.6228898763656616&scaling=min-zoom
 
 ### Screens Hi-Fi Prototyp
-<img src="./SingleScreens/Start-Screen.png" alt="alt text" align="top" width="40%" height="40%"> 
-<img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="40%" height="40%"> 
-<img src="./SingleScreens/Portrait-Screen.png" alt="alt text" width="40%" height="40%"> 
-<img src="./SingleScreens/Detail-Screen.png" alt="alt text" width="40%" height="40%"> 
-<img src="./SingleScreens/Warte-Screen.png" alt="alt text" align="top" width="40%" height="40%">
-<img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="60%" height="60%"> 
+<img src="./SingleScreens/Start-Screen.png" alt="alt text" align="top" width="60%" height="60%"> 
+<img src="./SingleScreens/Schlüssel-Screen.png" alt="alt text" width="60%" height="60%"> 
+<img src="./SingleScreens/Portrait-Screen.png" alt="alt text" width="60%" height="60%"> 
+<img src="./SingleScreens/Detail-Screen.png" alt="alt text" width="60%" height="60%"> 
+<img src="./SingleScreens/Warte-Screen.png" alt="alt text" align="top" width="60%" height="60%">
+<img src="./SingleScreens/Bearbeitungs-Screen.png" alt="alt text" width="80%" height="80%"> 
 <img src="./SingleScreens/Beamer.png" alt="alt text" width="80%" height="80%">
